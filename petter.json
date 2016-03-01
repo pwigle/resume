@@ -60,6 +60,7 @@
         "highlights": [
           "Backend development",
           "Infrastructure as code",
+          "Scrum Master",
           "Test automation"
         ]
       },
@@ -218,6 +219,17 @@
           "Jenkins",
           "Team City",
           "CDN configuration"
+        ]
+      },
+      {
+        "name": "Databases and data processing",
+        "skills": [
+          "Spark",
+          "Cassandra",
+          "Kafka",
+          "PostgreSQL",
+          "MySQL",
+          "SQL Server"
         ]
       },
       {
